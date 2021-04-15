@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tactycHQ.github.io/blog</id>
-    <title>Tactyc Blog</title>
+    <title>Tactyc Support Center Blog</title>
     <updated>2020-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tactycHQ.github.io/blog"/>
-    <subtitle>Tactyc Blog</subtitle>
+    <subtitle>Tactyc Support Center Blog</subtitle>
     <icon>https://tactycHQ.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Introducing Tactyc]]></title>
