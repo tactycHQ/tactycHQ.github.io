@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{98:function(a){a.exports=JSON.parse('{"excel":{"allTagsPath":"/blog/tags","slug":"excel","name":"excel","count":1,"permalink":"/blog/tags/excel"},"tactyc":{"allTagsPath":"/blog/tags","slug":"tactyc","name":"tactyc","count":1,"permalink":"/blog/tags/tactyc"}}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{106:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Tactyc","permalink":"/blog/introducing-tactyc"}]}')}}]);
